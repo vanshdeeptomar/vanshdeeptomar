@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Vanshdeep, a developer and entrepreneur building digital products, AI-powered systems, and businesses.<br><br>I work across web development, AI automation, e-commerce, and digital growth, helping businesses turn ideas into practical solutions.<br><br>From building production-ready websites and custom business tools to developing AI workflows and managing creative projects, I enjoy working at the intersection of technology, design, and business.<br><br>Currently pursuing BCA in AI & ML while building my agency, working with clients, and growing a team across development, marketing, and content production.<br><br>My goal is simple: build products that solve real problems, create businesses that scale, and turn ambitious ideas into reality.
 
 
